@@ -3,8 +3,6 @@
 
 A easy console-based application to help users track their income, expenses, and generate spending reports. The application allows users to log transactions, view their balance, and visualize their spending habits through charts.
 
----
-
 ## Features
 
 - **Add Income**: Log any income into the system.
@@ -13,8 +11,6 @@ A easy console-based application to help users track their income, expenses, and
 - **Generate Spending Report**: Create a visual report (pie chart) that shows a breakdown of expenses across different categories.
 - **Save and Load Transactions**: Save all transactions to a file for persistence across sessions.
 
----
-
 ## Requirements
 
 - **Python 3.x**
@@ -22,8 +18,6 @@ A easy console-based application to help users track their income, expenses, and
   ```bash
   pip install matplotlib
   ```
-
----
 
 ## How to Run
 
@@ -41,3 +35,5 @@ A easy console-based application to help users track their income, expenses, and
    ```bash
    python finance_manager.py
    ```
+
+--- 
