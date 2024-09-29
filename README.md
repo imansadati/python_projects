@@ -41,8 +41,3 @@ A easy console-based application to help users track their income, expenses, and
    ```bash
    python finance_manager.py
    ```
-
----
-
----
-
