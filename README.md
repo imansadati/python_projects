@@ -18,22 +18,3 @@ A easy console-based application to help users track their income, expenses, and
   ```bash
   pip install matplotlib
   ```
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/imansadati/python_projects.git
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app:
-   ```bash
-   python finance_manager.py
-   ```
-
---- 
